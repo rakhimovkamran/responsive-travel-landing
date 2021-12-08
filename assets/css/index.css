@@ -115,6 +115,10 @@ html {
   scroll-behavior: smooth;
 }
 
+video {
+  pointer-events: none;
+}
+
 body {
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
