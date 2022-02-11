@@ -1,7 +1,7 @@
 # Travel Landing Page 🌴
 ###  Responsive Travel Landing Page 🌴
 
-- Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
+- Travel website to the most beautiful beaches, using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
 - Includes a dark and light mode.
 - Developed first with the Mobile First methodology, then for desktop.
